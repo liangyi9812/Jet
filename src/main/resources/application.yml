@@ -4,7 +4,7 @@ spring:
   thymeleaf:
     cache: false
 server:
-  port: 10768
+  port: 7860
 help:
   default-license-name: 光云
   default-assignee-name: 藏柏
